@@ -1,0 +1,14 @@
+	Cách để tạo 1 dong coin
+
+* Create a token/Coin
+* Create amount token
+- []Minter : người khởi tạo
+- []Suply : cung hay là người gửi
+- []Balance : ví
+*[ ] Sent Token
+- []Receiver
+	+[]Amount <= balance ?
+	+[]balance sender -= amount	
+	+[]balance receiver += amount
+	: ko đủ tien ma doi gui
+ - []Amount

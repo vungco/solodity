@@ -1,0 +1,14 @@
+bài học số 1 khái niệm cơ bản về solidity
+
+1. Ethereum (ETH)
+- là 1 phần mềm mã nguồn mở
+- Crypto :(ETH)
+- Được công bố vào thế giới ngày 30.5.2015  
+- Giới thiệu với thế giới về 'Smart Contract'
+
+2. What is solidity
+- Ngôn ngữ hướng đối tượng bậc cao
+- Cú pháp giống javascrip, nhưng bản chat nó là c++ và Python.
+- Mục đích duy nhất sử dung cho việc viết Smart Contract.
+
+và Remix.eth là trình biên dịch chạy ngôn ngữ solidity

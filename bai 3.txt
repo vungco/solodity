@@ -1,0 +1,22 @@
+	Cơ bản về các kiểu dữ lieu
+
+cac dl hay dung:
+bool : nhan gia tri true or false
+uint: so Nguyen khong am 
+int: so Nguyen
+string: chuoi
+address myAdress = msg.sender
+
+mapping (from => to) public/private tenmang;
+Enum Level {gtri1,gtri2,gtri3} nhan vao cac gia tri
+Kieudulieu[] public tenarr vd: int[] public ints no chua cac so ben trong
+
+- struct:
++ Lu tru du lieu co cau truc hay con goi la nhom cac thuc the co lien quan lai voi nhau 
+VD 1 sv co cac thuoc tinh:
+name,age,sex, diemtoan,diemtienganh,
+=> nhom thanh 2 struct la infor{string name,uint age,string sex}
+			  diemmonhoc{uint diemtoan,uint diemta}
+- construct:
++ la ham khoi tao khi class nay dc goi
++ chi chay 1 lan duy nhat khi 1 doi tuong dc tao ra
