@@ -1,0 +1,5 @@
+	Tính ke thua Modifier
+- nó hoat dong giong function nhung khac nhau o cho:
++ ko duoc tu goi ma chi duoc dung de them dk vao function thoi
++ co the kiem tra dk trc hoac sau khi thuc thi function 
++ dung de kiem tra quyen han,gioi han truy cap,xac thuc...
